@@ -1,0 +1,25 @@
+div {
+  margin-bottom: 50px;
+}
+
+#images1 {
+  background-color: #A4D555;
+  padding: 50px;
+  width: 750px;
+}
+
+#images1 p {
+  background-color: #02558B;
+  font-family: "Century Gothic";
+  font-size: 1.2em;
+  color: white;
+  width: 350px;
+  padding: 30px;
+  float: right;
+}
+
+#images1 img {
+  width: 250px;
+  padding: 15px 15px 50px 15px;
+  background-color: white;
+}
