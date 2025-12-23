@@ -1,0 +1,9 @@
+div {
+  margin-bottom: 50px;
+}
+
+#badImg {
+  background-color: gray;
+  padding: 10px;
+  color: white;
+}
